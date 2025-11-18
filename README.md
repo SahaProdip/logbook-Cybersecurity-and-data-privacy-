@@ -13,3 +13,4 @@
 | 7.11.2025   | 4     | Course navigation tutorial and module 1 and 2 Introduction to cybersecurity   | created git repository, Completed tutorial video and module 1 and 2 quiz and read some materials of moudule 3  |                                                     |   
 |8.11.2025|4|Introduction to cybersecurity|Read the rest of module 3 and 4 and completed the quiz of two module.Read module 5 |
 |9.11.2025|4|Introduction to cybersecurity|Take the quiz of module 5 and read some topics from all modules before the course final exam and done it perfectly |
+|18.11.2025|3|Task 3: Introduction to the portswigger environment|Done all 6 labs and reflections|
